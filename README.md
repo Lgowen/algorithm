@@ -22,3 +22,9 @@
 1. 剑指Offer 03. 数组中重复的数字(easy)
 2. 剑指Offer 53 - I. 在排序数组中查找数字 I(easy)
 3. 剑指Offer 53 - II. 0～n-1中缺失的数字(easy)
+
+
+## Day5 查找算法（中等）
+1. 剑指Offer 04. 二维数组中的查找(Medium)
+2. 剑指Offer 11. 旋转数组的最小数字(easy)
+3. 剑指Offer 50. 第一个只出现一次的字符(easy)

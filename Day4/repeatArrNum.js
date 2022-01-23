@@ -16,7 +16,7 @@
     const map = new Map() // 创建哈希表
     for(const num of nums) {
         const mapNum = map.get(num) // 从哈希表取值
-        if (mapNum > 0 || mapNum === 0) return mapNum // 假如值存在则直接返回
+        if (mapNum >=0) return mapNum // 假如值存在则直接返回
         map.set(num, num) // 将值放入哈希表建议映射关系
     }
 };
